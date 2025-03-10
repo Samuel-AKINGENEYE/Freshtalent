@@ -21,7 +21,7 @@ body {
     top: 0;
     left: 0;
     width: 100%;
-    background-color: #333;
+    background-color: #2c6e49;
     color: white;
     padding: 1rem;
     z-index: 10;
@@ -136,7 +136,7 @@ h2 {
     text-decoration: none;
     color: #fff;
     font-weight: bold;
-    background-color: #ff6f61;
+    background-color: green;
     padding: 0.5rem 1rem;
     border-radius: 5px;
     transition: background-color 0.3s ease;
@@ -150,7 +150,7 @@ h2 {
 .contact {
     margin-top: 3rem;
     padding: 2rem;
-    background-color: #f4f4f4;
+    background-color: #707070;
     border-radius: 8px;
 }
 
@@ -172,13 +172,13 @@ label {
 input, textarea {
     padding: 0.75rem;
     font-size: 1rem;
-    border: 1px solid #ddd;
+    border: 1px solid #313639;
     border-radius: 5px;
 }
 
 button {
     padding: 0.75rem;
-    background-color: #ff6f61;
+    background-color: green;
     color: white;
     font-size: 1rem;
     border: none;
@@ -188,7 +188,7 @@ button {
 }
 
 button:hover {
-    background-color: #e55d4a;
+    background-color: orangered;
 }
 
 /* Footer Section */
@@ -282,8 +282,8 @@ footer {
 }
 
 .contact {
-    background-color: teal;
-    color: white;
+    background-color: #b7d9a3;
+    color: #2c6e49;
     padding: 40px;
     border-radius: 8px;
     box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
